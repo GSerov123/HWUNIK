@@ -13,6 +13,7 @@ def task_07(numbers):
         task_07([3, 1, 4, 1, 5]) == (1, 5)
         task_07([7]) == (7, 7)
         task_07([-2, -5, -1]) == (-5, -1)
+
     """
     raise NotImplementedError("Реализуйте task_07")
 
