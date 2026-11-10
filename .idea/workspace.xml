@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="158b0d02-af8f-4947-9034-a42b52feded9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/h01_relations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/h02_composition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/h03_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/h04_mixins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/h05_abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/homework/h06_instead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t01_relarions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t02_composition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t03_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t04_mixins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t05_abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t06_instead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/h01_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/h02_singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/h03_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/h04_abstract_factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/h05_combo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/h06_antipatterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/tasks/t01_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/tasks/t02_singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/tasks/t03_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/tasks/t04_abstract_factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/tasks/t05_combo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/tasks/t06_antipatterns.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
