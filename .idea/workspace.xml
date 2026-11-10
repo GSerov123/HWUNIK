@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="158b0d02-af8f-4947-9034-a42b52feded9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HWUNIK.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lesson-01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/h01_relations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/h02_composition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/h03_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/h04_mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/h05_abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/homework/h06_instead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t01_relarions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t02_composition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t03_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t04_mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t05_abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/tasks/t06_instead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +39,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Kzpgh2N9zqdipOJlFj4nQR8sbu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +61,12 @@
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serov_ga\Desktop\lessons 1-1\HWUNIK\lesson3\tasks" />
+      <recent name="C:\Users\serov_ga\Desktop\lessons 1-1\HWUNIK\lesson1\homework" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="HWUNIK" />
